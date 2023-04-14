@@ -28,7 +28,6 @@
     margin-bottom: 5rem;
 }
 .gpt3__possibility-content h4 {
-    font-family: var(--font-family);
     font-weight: 500;
     font-size: 16px;
     line-height: 30px;
@@ -40,13 +39,11 @@
     color: var(--color-subtext);
 }
 .gpt3__possibility-content h1{
-    font-family: var(--font-family);
     font-weight: 800;
     font-size: 34px;
     line-height: 45px;
 }
 .gpt3__possibility-content p {
-    font-family: var(--font-family);
     margin-bottom: 2rem;
 
     font-weight: 400;

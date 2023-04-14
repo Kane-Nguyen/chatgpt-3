@@ -8,7 +8,6 @@
     background: var(--gradient-bar);
 }
 .gpt3__cta-content p{
-   font-family: var(--font-family);
     font-weight: 500;
     font-size: 12px;
     line-height: 30px;
@@ -18,7 +17,6 @@
 
 }
 .gpt3__cta-content h3{
-   font-family: var(--font-family);
     font-weight: 800;
     font-size: 24px;
     line-height: 45px;
@@ -33,7 +31,6 @@
 .gpt3__cta-btn button{
     width: 189.14px;
     height: 59.4px;
-   font-family: var(--font-family);
     background: #000000;
     border-radius: 40px;
     font-weight: 700;
